@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.1",
-  "latest_build": 2,
+  "latest_version": "1.0.0",
+  "latest_build": 1,
   "mandatory": false,
   "store_url": "https://play.google.com/store/apps/details?id=com.mdz.ayatify",
   "update_message": "- Perbaikan tampilan\n- Optimasi database Quran\n- Fitur Share baru"
